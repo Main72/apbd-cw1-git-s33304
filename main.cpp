@@ -6,6 +6,9 @@ void CalculateAverage(int value) {
 void CalculateMax(int value) {
     std::cout << value + 100 << "!\n";
 }
+void CalculateMin(int values) {
+    std::cout << 0 << " (" << "!\n";
+}
 
 int main() {
     auto lang = "C++";
