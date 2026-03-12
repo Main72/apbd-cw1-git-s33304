@@ -9,6 +9,7 @@ int main() {
     std::cout << "Hello GitHub" << lang << "!\n";
     std::cout << "Hello GitHub!!!" << lang << "!\n";
     std::cout << "Hello GitHub???" << lang << "!\n";
+    std::cout << "Hello GitHub===" << lang << "!\n";
 
     return 0;
 }
