@@ -8,6 +8,8 @@ void CalculateMax(int value) {
 }
 void CalculateMin(int values) {
     std::cout << 0 << " (" << "!\n";
+    std::cout << "Hello GitHub" << "123" << "!\n";
+
 }
 
 int main() {
