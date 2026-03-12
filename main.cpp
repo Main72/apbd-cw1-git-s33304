@@ -20,7 +20,7 @@ int main() {
         std::cout << "i = " << i << std::endl;
     }
     std::cout << "Hello MAGIC" << lang << "!\n";
-    std::cout << "Hello GitHub!!!" << lang << "!\n";
+    std::cout << "FOCUS FOR CONFLICT" << lang << "!\n";
     std::cout << "Something dla confliktu" << lang << "!\n";
     std::cout << "Hello GitHub===" << lang << "!\n";
     CalculateAverage(2);
