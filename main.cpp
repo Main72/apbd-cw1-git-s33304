@@ -1,7 +1,7 @@
 #include <iostream>
 
 void CalculateAverage(int value) {
-
+    std::cout << value + 1 << "!\n";
 }
 
 int main() {
