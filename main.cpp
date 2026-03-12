@@ -14,7 +14,7 @@ int main() {
     for (int i = 1; i <= 5; i++) {
         std::cout << "i = " << i << std::endl;
     }
-    std::cout << "Hello GitHub" << lang << "!\n";
+    std::cout << "Hello MAGIC" << lang << "!\n";
     std::cout << "Hello GitHub!!!" << lang << "!\n";
     std::cout << "Hello GitHub???" << lang << "!\n";
     std::cout << "Hello GitHub===" << lang << "!\n";
