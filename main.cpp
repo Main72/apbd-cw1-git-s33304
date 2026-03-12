@@ -21,7 +21,7 @@ int main() {
     }
     std::cout << "Hello MAGIC" << lang << "!\n";
     std::cout << "Hello GitHub!!!" << lang << "!\n";
-    std::cout << "Hello GitHub???" << lang << "!\n";
+    std::cout << "Something dla confliktu" << lang << "!\n";
     std::cout << "Hello GitHub===" << lang << "!\n";
     CalculateAverage(2);
     std::cout << "Hello GitHub111" << lang << "!\n";
@@ -29,6 +29,8 @@ int main() {
     //Krótko opisz w README, dlaczego tym razem merge nie był fast-forward
     //bo na tej samej linijce byl conflikt i git nie mogl wybrac co gdzie dodac
     CalculateMin(1);
+    std::cout << "Something dla confliktu" << lang << "!\n";
+
     return 0;
 }
 
