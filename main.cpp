@@ -21,7 +21,8 @@ int main() {
     CalculateAverage(2);
     std::cout << "Hello GitHub111" << lang << "!\n";
     CalculateMax(1);
-
+    //Krótko opisz w README, dlaczego tym razem merge nie był fast-forward
+    //bo na tej samej linijce byl conflikt i git nie mogl wybrac co gdzie dodac
 
     return 0;
 }
