@@ -21,6 +21,8 @@ int main() {
     }
     std::cout << "Hello MAGIC" << lang << "!\n";
     std::cout << "FOCUS FOR CONFLICT" << lang << "!\n";
+    std::cout << "FOCUS FROM feature-conflict" << lang << "!\n";
+    //no conflict only peace pls
     std::cout << "Something dla confliktu" << lang << "!\n";
     std::cout << "Hello GitHub===" << lang << "!\n";
     CalculateAverage(2);
