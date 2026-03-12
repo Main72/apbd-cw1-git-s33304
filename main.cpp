@@ -16,6 +16,7 @@ int main() {
     std::cout << "Hello GitHub???" << lang << "!\n";
     std::cout << "Hello GitHub===" << lang << "!\n";
     CalculateAverage(2);
+    std::cout << "Hello GitHub111" << lang << "!\n";
 
     return 0;
 }
