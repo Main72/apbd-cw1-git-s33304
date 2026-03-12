@@ -7,6 +7,7 @@ int main() {
         std::cout << "i = " << i << std::endl;
     }
     std::cout << "Hello GitHub" << lang << "!\n";
+    std::cout << "Hello GitHub!!!" << lang << "!\n";
 
     return 0;
 }
